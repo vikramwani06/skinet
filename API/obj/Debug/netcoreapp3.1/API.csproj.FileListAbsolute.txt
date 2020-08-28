@@ -63,3 +63,5 @@ C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcor
 C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
