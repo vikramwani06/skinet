@@ -16,5 +16,9 @@
 ],
   "compilerOptions": {
     "experimentalDecorators": true
-  }
+  },
+
+  "typeRoots": [
+    "node_modules"
+  ]
 }
