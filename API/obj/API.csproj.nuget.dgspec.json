@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\API.csproj": {}
+    "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\API.csproj": {
+    "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\API.csproj",
+        "projectPath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\viki4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\obj\\",
+        "outputPath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

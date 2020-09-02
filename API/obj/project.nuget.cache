@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3p4f3AAOb5EtAlAFqE8JCovYsqyD7/Ze84hz968k/ywIZ6BqnoXBzi+wzTJ+sUGmwzsfamak1JpPy3KdrQKXQ==",
+  "dgSpecHash": "Z4/6iqAzXmkSymOzOdhyMkjZ9OeVKgGErkII6iYMDunSW5COb0GiGSRmI1cHXxg8PisYh/Onjq2yeQYtchnVVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\viki4\\Desktop\\AR App Logos\\UdemyEComWebsite\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viki4\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\viki4\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
