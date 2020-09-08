@@ -14,16 +14,14 @@ import { IProduct } from '../shared/models/product';
 export class ShopService {
   baseUrl = 'https://localhost:5001/api/';
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
-  getProducts(shopParams: ShopParams){
+  getProducts(shopParams: ShopParams) {
     let params = new HttpParams();
 
-    if (shopParams.brandId !== 0)
-      { params = params.append('brandId', shopParams.brandId.toString()); }
+    if (shopParams.brandId !== 0) { params = params.append('brandId', shopParams.brandId.toString()); }
 
-    if (shopParams.typeId !== 0)
-    { params = params.append('typeId', shopParams.typeId.toString()); }
+    if (shopParams.typeId !== 0) { params = params.append('typeId', shopParams.typeId.toString()); }
 
     params = params.append('sort', shopParams.sort);
 
@@ -31,25 +29,24 @@ export class ShopService {
 
     params = params.append('pageIndex', shopParams.pageSize.toString());
 
-    if(shopParams.search)
-      {params = params.append('search', shopParams.search);}
+    if (shopParams.search) { params = params.append('search', shopParams.search); }
 
-    return this.http.get<IPagination>(this.baseUrl + 'products', {observe: 'response', params})
-    .pipe(
-      map(response => {
-        return response.body;
-      })
-    );
+    return this.http.get<IPagination>(this.baseUrl + 'products', { observe: 'response', params })
+      .pipe(
+        map(response => {
+          return response.body;
+        })
+      );
   }
 
-  getProduct(id: number){
+  getProduct(id: number) {
     return this.http.get<IProduct>(this.baseUrl + 'products/' + id);
   }
-  getBrands(){
+  getBrands() {
     return this.http.get<IBrand[]>(this.baseUrl + 'products/brands');
   }
 
-  getTypes(){
+  getTypes() {
     return this.http.get<IType[]>(this.baseUrl + 'products/types');
   }
 }
