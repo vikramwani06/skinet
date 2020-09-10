@@ -1,0 +1,12 @@
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\viki4\Desktop\AR App Logos\UdemyEComWebsite\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
